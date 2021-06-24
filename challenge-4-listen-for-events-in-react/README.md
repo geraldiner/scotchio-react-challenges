@@ -14,7 +14,7 @@ The main tasks of this challenge were:
 
 ### My Version
 
-![Listen for Events in React page in my code](https://i.imgur.com/8KS1jd6.gif)
+![Listen for Events in React page in my code](https://i.imgur.com/WJFnc6f.gif)
 
 
 ## Reflection
