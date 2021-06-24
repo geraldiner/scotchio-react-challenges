@@ -29,17 +29,17 @@ function App() {
       <h1>Adding Two Numbers</h1>
 
       <div className="number-inputs">
-        <input type="number" placeholder="0" onChange={e => setFirst(e.target.value)} />
-        <input type="number" placeholder="0" onChange={e => setSecond(e.target.value)} />
+        <input type="number" placeholder="0" onChange={e => setFirst(e.target.value)} value={first} />
+        <input type="number" placeholder="0" onChange={e => setSecond(e.target.value)} value={second} />
       </div>
 
-      <button type="button" onClick={() => addNumbers()}>+</button>
+      <button type="button" onClick={addNumbers}>+</button>
 
-      <button type="button" onClick={() => subtractNumbers()}>-</button>
+      <button type="button" onClick={subtractNumbers}>-</button>
 
-      <button type="button" onClick={() => multiplyNumbers()}>×</button>
+      <button type="button" onClick={multiplyNumbers}>×</button>
 
-      <button type="button" onClick={() => divideNumbers()}>÷</button>
+      <button type="button" onClick={divideNumbers}>÷</button>
 
       <h2>{answer}</h2>
 
