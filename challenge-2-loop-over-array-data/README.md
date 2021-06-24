@@ -17,6 +17,15 @@ The main tasks were:
 ![Loop Over Array Data page in my code](https://i.imgur.com/FLLiRZe.gif)
 
 
+## Reflection
+
+In this challenge, I was able to use `.map()` to display a list of users. It might've been overkill to use `Users` and `User` components with such little data, but it is something I've seen in other projects, such as the [React Task Tracker](https://github.com/geraldiner/react-task-tracker) and Magical Movies (see below). In this way, I can re-use the `Users` component to show the list of users anywhere else. OR if I wanted to just show one user, I would use the `User` component.
+
+### Other Challenges
+
+
+
+
 ## Other Projects
 
 Check out other stuff I've worked on:

@@ -19,6 +19,17 @@ The main tasks were:
 ![Use React State to Update the DOM page in my code](https://i.imgur.com/8KS1jd6.gif)
 
 
+## Reflection
+
+I was a little skeptical about this challenge because even though I'd seen this before, I couldn't remember how to do it.
+
+After referencing the code in my Magical Movies project (see below), I remembered that `useState` is useful here to manage the state of the `name` and `age`. With their respective setter methods, I added an `onchange` event listener on the `input` fields to change the variables when the person is typing.
+
+### Other Challenges
+
+
+
+
 ## Other Projects
 
 Check out other stuff I've worked on:
