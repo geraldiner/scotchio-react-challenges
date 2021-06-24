@@ -1,24 +1,26 @@
-import React, { useState, useEffect } from 'react';
-import ReactDOM from 'react-dom';
-import ScotchInfoBar from './ScotchInfoBar';
-import './styles.css';
+import React, { useState } from "react";
+import ReactDOM from "react-dom";
+import ScotchInfoBar from "./ScotchInfoBar";
+import "./styles.css";
 
 function App() {
-  const [password, setPassword] = useState('')
+  const [password, setPassword] = useState("");
 
-  const checkPassword = e => setPassword(e.target.value)
+  const checkPassword = (e) => setPassword(e.target.value);
 
-  useEffect(() => {
-    if (password === "open sesame") {
-      alert("You may pass!")
-    }
-  }, [checkPassword])
+  if (password === "open sesame") {
+    alert("You may pass!");
+  }
 
   return (
     <div className="App">
       <h2>What's the secret phrase?</h2>
 
-      <input type="text" placeholder="Super duper secret" onChange={e => checkPassword(e)} />
+      <input
+        type="text"
+        placeholder="Super duper secret"
+        onChange={(e) => checkPassword(e)}
+      />
 
       <p>
         Hint: It's <strong>open sesame</strong>
@@ -29,5 +31,5 @@ function App() {
   );
 }
 
-const rootElement = document.getElementById('root');
+const rootElement = document.getElementById("root");
 ReactDOM.render(<App />, rootElement);
