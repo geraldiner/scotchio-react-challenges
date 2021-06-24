@@ -3,8 +3,6 @@ In my attempt to learn React, I'm going through the React Challenges from Scotch
 
 **Link to project:** https://github.com/geraldiner/scotchio-react-challenges
 
-![alt tag](http://placecorgi.com/1200/650)
-
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript, React
