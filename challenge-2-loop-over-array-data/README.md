@@ -14,7 +14,7 @@ The main tasks were:
 
 ### My Version
 
-![Loop Over Array Data page in my code](https://i.imgur.com/gdSqxvQ.png)
+![Loop Over Array Data page in my code]()
 
 
 ## Other Projects
