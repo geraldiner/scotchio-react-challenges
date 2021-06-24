@@ -2,7 +2,7 @@
 In this challenge, I was given user data and had to display it using JSX. The main tasks were:
 
 - Show data
-- Bind data to an HTML attribute <img src=
+- Bind data to an HTML attribute `<img src=`
 - Create a link to the user's Twitter profile: https://twitter.com/chrisoncode
 
 
