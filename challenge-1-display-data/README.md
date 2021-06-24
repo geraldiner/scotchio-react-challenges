@@ -16,6 +16,15 @@ In this challenge, I was given user data and had to display it using JSX. The ma
 ![Display Data page in my code](https://i.imgur.com/gdSqxvQ.png)
 
 
+## Reflection
+
+This was a good exercise in passing props to component children. It might've been overkill to use a `User` component with such little data, but it is something I've seen in other projects, such as the [React Task Tracker](https://github.com/geraldiner/react-task-tracker) and Magical Movies (see below). Plus, in this way, I can show a list of Users with a single User component (spoiler: like in the next challenge).
+
+### Other Challenges
+
+[Challenge 2: Loop Over Array Data](https://github.com/geraldiner/scotchio-react-challenges/tree/master/challenge-2-loop-over-array-data)
+
+
 ## Other Projects
 
 Check out other stuff I've worked on:
