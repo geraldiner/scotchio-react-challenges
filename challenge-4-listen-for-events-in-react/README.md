@@ -18,7 +18,7 @@ The main tasks of this challenge were:
 
 
 ## Reflection
-
+I thought this challenge was a good place to use `useEffect`, but the solution ended up simpler than that. The check for if the 'password' was typed in could just be written into the component itself instead of something like `useEffect`. I used the simpler logic for `onChange` from the last challenge and implemented it into the `input` tag itself instead of in a separate helper function.
 
 
 ### Other Challenges
