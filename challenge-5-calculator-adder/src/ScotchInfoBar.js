@@ -28,6 +28,19 @@ export default function ScotchInfoBar(props) {
       >
         Day {props.seriesNumber} of #10DaysOfReact
       </a>
+      {' '}|{' '}
+      By <a
+        href="https://github.com/geraldiner"
+        style={{
+          color: '#40A8F3',
+          textDecoration: 'none',
+          display: 'inline-block',
+          padding: '0 0 3px',
+          borderBottom: '2px solid #40A8F3'
+        }}
+      >
+        @geraldiner
+      </a>
     </div>
   );
 }

@@ -13,11 +13,15 @@ In this challenge, there are two numbers from an input element and the app shoul
 
 ### My Version
 
-![Calculator Adder page in my code]()
+![Calculator Adder page in my code](https://i.imgur.com/NdmjsT6.gif)
 
 
 ## Reflection
+At first look, this challenge seemed a bit tricky. I think I might've been wary because trying to do this with VanillaJS to make an actual calculator with keyboard input was a lot more difficult.
 
+But it was just a simple example of `useState` for multiple variables. There was one for the first number, the second number, and the answer. 
+
+The original problem was set up to only handle addition, but for "bonus points" I also included the other arithmetic operator and it was just as easy as setting up more buttons and more functions. If I wanted to be less redundant, there would be only one function with maybe a `switch` statement that takes in the operator as an argument to decide which operation to perform on the given numbers.
 
 
 ### Other Challenges
