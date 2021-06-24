@@ -3,6 +3,8 @@ import ReactDOM from "react-dom";
 import "./styles.css";
 import ScotchInfoBar from "./ScotchInfoBar";
 
+import Users from "./Users";
+
 /**
  * Our data comes from users-data.js
  * -----------------------------
@@ -22,10 +24,9 @@ function App() {
 
       {/* Iterate over imported array in userData */}
       <div className="users">
-        display data here
-        {/* Display each data in array in a card */}
-        {/* Each card must have a 'key' attribute */}
+        <Users users={users} />
       </div>
+      
       <ScotchInfoBar />
     </div>
   );
