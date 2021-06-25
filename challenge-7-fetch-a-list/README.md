@@ -21,6 +21,8 @@ This challenge was relatively easier than the last one. I even went as far as to
 
 I decided to create a `BookCard` component that could be reused wherever needed.
 
+The hardest part was formatting the data when it came back. I'd heard of MomentJS, but never used it. Turns out there's a React library for it and it was very easy to use. I just had to look up the format for what was in the example.
+
 ### Other Challenges
 
 ## Other Projects
