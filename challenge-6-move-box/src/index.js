@@ -29,7 +29,7 @@ function App() {
   return (
     <div className="App">
       <h1>Move the Box!</h1>
-      <p>Use the arrow keys to move the box around.</p>
+      <p>Click on the arrow buttons to move the box around.</p>
 
       <button type="button" onClick={() => moveBox("up")}>
         ↑
