@@ -14,7 +14,7 @@ The main tasks of this challenge were:
 
 ### My Version
 
-![Layout with Components page in my code]()
+![Layout with Components page in my code](https://i.imgur.com/CD8JjvL.gif)
 
 ## Reflection
 
