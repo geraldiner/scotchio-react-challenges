@@ -18,6 +18,10 @@ The main tasks of this challenge were:
 
 ## Reflection
 
+This was a lot easier than I thought. A couple challenges ago, I thought the challenges were getting progressively more difficult, but this is something I've been doing already: creating components for repeated pieces (eg. the `BookCard` component in the last challenge).
+
+But I did learn a new method, `Number.toLocaleString()`, which put the commas in the right place for the numbers.
+
 ### Other Challenges
 
 ## Other Projects
