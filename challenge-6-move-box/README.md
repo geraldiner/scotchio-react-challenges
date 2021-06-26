@@ -28,6 +28,16 @@ I tried to be _extra_ and use keyboards, but couldn't quite figure out how to do
 
 ### Other Challenges
 
+- Challenge 1: [Display Data](https://github.com/geraldiner/scotchio-react-challenges/tree/master/challenge-1-display-data)
+- Challenge 2: [Loop Over Array Data](https://github.com/geraldiner/scotchio-react-challenges/tree/master/challenge-2-loop-over-array-data)
+- Challenge 3: [Use React State to Update the DOM](https://github.com/geraldiner/scotchio-react-challenges/tree/master/challenge-3-use-react-state-to-update-dom)
+- Challenge 4: [Listen for Events in React](https://github.com/geraldiner/scotchio-react-challenges/tree/master/challenge-4-listen-for-events-in-react)
+- Challenge 5: [Calculator](https://github.com/geraldiner/scotchio-react-challenges/tree/master/challenge-5-calculator-adder)
+- Challenge 6: Move Box (you are here)
+- Challenge 7: [Fetch a List](https://github.com/geraldiner/scotchio-react-challenges/tree/master/challenge-7-fetch-a-list)
+- Challenge 8: [Using Components](https://github.com/geraldiner/scotchio-react-challenges/tree/master/challenge-8-using-components)
+- Challenge 9: [Use React Context](https://github.com/geraldiner/scotchio-react-challenges/tree/master/challenge-9-use-react-context)
+
 ## Other Projects
 
 Check out other stuff I've worked on:
