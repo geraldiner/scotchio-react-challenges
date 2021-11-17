@@ -34,8 +34,10 @@ I wasn't really confident in my React abilities beforehand, but these were reall
 
 Check out other stuff I've worked on:
 
-**Where's the Magic?:** https://github.com/geraldiner/magical-movies
+**Rehabitter:** https://github.com/geraldiner/rehabitter
 
-**Habit Reset:** https://github.com/geraldiner/habit-reset
+**K.K. Radio:** https://github.com/geraldiner/kk-radio
 
-**ACNH Quotes:** https://github.com/geraldiner/acnh-quotes
+**Interactive Piano:** https://github.com/geraldiner/piano
+
+**Pom Poko Pomodoro:** https://github.com/geraldiner/pom-poko-pomodoro
