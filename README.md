@@ -30,6 +30,7 @@ I wasn't really confident in my React abilities beforehand, but these were reall
 - Challenge 8: [Using Components](https://github.com/geraldiner/scotchio-react-challenges/tree/master/challenge-8-using-components)
 - Challenge 9: [Use React Context](https://github.com/geraldiner/scotchio-react-challenges/tree/master/challenge-9-use-react-context)
 
+
 ## Other Projects
 
 Check out other stuff I've worked on:
@@ -37,6 +38,8 @@ Check out other stuff I've worked on:
 **Minute To Win It Games API & Wiki**: https://github.com/geraldiner/min-to-win
 
 **Rehabitter:** https://github.com/geraldiner/rehabitter
+
+**Snapchat Clone:** https://github.com/geraldiner/snapchat-clone
 
 **K.K. Radio:** https://github.com/geraldiner/kk-radio
 
