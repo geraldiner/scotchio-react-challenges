@@ -4,13 +4,13 @@ In my attempt to learn React, I'm going through the React Challenges from Scotch
 
 **Link to project:** https://github.com/geraldiner/scotchio-react-challenges
 
-## How It's Made:
+## How It's Made
 
 **Tech used:** HTML, CSS, JavaScript, React
 
 Since I'm focusing on learning React that is the priority in these projects. Generally, I'll use the provided starter code which has HTML and CSS already included. It's just a matter of knowing which `class`es, `id`s and tags to use.
 
-## Lessons Learned:
+## Lessons Learned
 
 I've been so used to using the shortcuts in VS Code that when I was working in the provided Code Sandbox starter code, I didn't know how to write out the functional components. I'd always relied on the `rafce` shortcut.
 
