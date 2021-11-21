@@ -35,6 +35,7 @@ I wasn't really confident in my React abilities beforehand, but these were reall
 
 
 
+
 ## Other Projects
 
 Check out other stuff I've worked on:
@@ -46,7 +47,3 @@ Check out other stuff I've worked on:
 **Snapchat Clone:** https://github.com/geraldiner/snapchat-clone
 
 **K.K. Radio:** https://github.com/geraldiner/kk-radio
-
-**Pom Poko Pomodoro App:** https://github.com/geraldiner/pom-poko-pomodoro
-
-**Interactive Piano:** https://github.com/geraldiner/piano
