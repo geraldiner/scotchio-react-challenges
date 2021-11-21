@@ -31,6 +31,7 @@ I wasn't really confident in my React abilities beforehand, but these were reall
 - Challenge 9: [Use React Context](https://github.com/geraldiner/scotchio-react-challenges/tree/master/challenge-9-use-react-context)
 
 
+
 ## Other Projects
 
 Check out other stuff I've worked on:
@@ -42,5 +43,3 @@ Check out other stuff I've worked on:
 **Snapchat Clone:** https://github.com/geraldiner/snapchat-clone
 
 **K.K. Radio:** https://github.com/geraldiner/kk-radio
-
-**Interactive Piano:** https://github.com/geraldiner/piano
